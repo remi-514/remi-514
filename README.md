@@ -9,10 +9,12 @@
 
 ---
 
-## ✦ 技能
+## ✦ 工具&語言
+## ✦ 工具 & 語言
 <p align="center">
-  <img src="https://img.shields.io/badge/Lua-2C2D72?style=flat&logo=lua&logoColor=white">
-  <img src="https://img.shields.io/badge/Roblox-000000?style=flat&logo=roblox&logoColor=white">
-  <img src="https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=visual-studio-code&logoColor=white">
+  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=50" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=50" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=50" /> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/roblox/7E7E80" width="50"/> &nbsp;&nbsp;
+  <img src="https://cdn.simpleicons.org/dotnet?viewbox=auto&size=25" /> &nbsp;&nbsp;
 </p>
-
