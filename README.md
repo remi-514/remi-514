@@ -18,3 +18,7 @@
   <img src="https://cdn.simpleicons.org/roblox/7E7E80" width="50"/> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/dotnet?viewbox=auto&size=25" /> &nbsp;&nbsp;
 </p>
+&nbsp;&nbsp;
+<p align="right">
+  不知道為什麼C#和html還有VSCode都沒有圖標...
+</p>  
