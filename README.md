@@ -10,7 +10,6 @@
 ---
 
 ## ✦ 工具&語言
-## ✦ 工具 & 語言
 <p align="center">
   <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=50" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=50" /> &nbsp;&nbsp;
