@@ -16,7 +16,6 @@
   <img src="https://cdn.simpleicons.org/css?viewbox=auto&size=50" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=50" /> &nbsp;&nbsp;
   <img src="https://cdn.simpleicons.org/roblox/7E7E80" width="50"/> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/dotnet?viewbox=auto&size=25" /> &nbsp;&nbsp;
 </p>
 &nbsp;&nbsp;
 <p align="right">
