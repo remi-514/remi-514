@@ -11,13 +11,7 @@
 
 ## ✦ 工具&語言
 <p align="center">
-  <img src="https://cdn.simpleicons.org/lua?viewbox=auto&size=50" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/javascript?viewbox=auto&size=50" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/css?viewbox=auto&size=50" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/python?viewbox=auto&size=50" /> &nbsp;&nbsp;
-  <img src="https://cdn.simpleicons.org/roblox/7E7E80" width="50"/> &nbsp;&nbsp;
+  <picture>
+    <img alt="icons" src="https://image2url.com/images/1756031342259-cec43bbe-dafd-4bf2-ac5d-3183e1f4a478.png" width=700>
+  <picture>
 </p>
-&nbsp;&nbsp;
-<p align="right">
-  不知道為什麼C#和html還有VSCode都沒有圖標...
-</p>  
