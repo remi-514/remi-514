@@ -8,7 +8,7 @@
 
 ---
 
-## ✦ 工具&語言
+## ✦ 工具&語言 ✦
 <p align="center">
   <picture>
     <img alt="icons" src="https://image2url.com/images/1756031342259-cec43bbe-dafd-4bf2-ac5d-3183e1f4a478.png" width=500>
