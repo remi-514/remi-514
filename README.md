@@ -13,6 +13,6 @@
 # ✦ 技能 ✦
 <p align="center">
   <picture>
-    <img alt="icons" src="https://image2url.com/images/1756031342259-cec43bbe-dafd-4bf2-ac5d-3183e1f4a478.png" width=500>
+    <img alt="icons" src="https://cdn.phototourl.com/uploads/2025-12-28-ef86bc03-7afb-4b65-8d66-0a9dfbf511fa.png" width=700>
   <picture>
 </p>
